@@ -17,6 +17,6 @@ var we;
 we = require('more-minerals');
 ```
 
-### Benifits
+### Benefits
 
 You will have more minerals.
