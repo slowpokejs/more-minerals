@@ -1,4 +1,4 @@
-more-minerals
+More Minerals
 =============
 
-Because we require more minerals
+Because we require more minerals.

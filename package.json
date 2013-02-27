@@ -1,0 +1,22 @@
+{
+  "name": "more-minerals",
+  "version": "1.0.0",
+  "description": "we require more minerals",
+  "main": "more-minerals.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slowpokejs/more-minerals.git"
+  },
+  "keywords": [
+    "we",
+    "require",
+    "more",
+    "minerals"
+  ],
+  "author": "Slowpoke JS",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
