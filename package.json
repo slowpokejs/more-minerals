@@ -16,7 +16,12 @@
     "more",
     "minerals"
   ],
-  "author": "Slowpoke JS",
+  "author": {
+    "name": "Slowpoke JS"
+  },
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "readme": "More Minerals\n=============\n\nBecause we require more minerals.\n",
+  "_id": "more-minerals@1.0.0",
+  "_from": "more-minerals"
 }
